@@ -103,6 +103,10 @@ p {
     text-align: center;
   }
 
+  h3 {
+    margin: 0 32px;
+  }
+
   p {
     text-align: center;
   }
@@ -111,5 +115,9 @@ p {
     display: block;
     text-align: center;
     margin: 0 20px;
+  }
+
+  .email-link {
+    font-size: 18px;
   }
 }
